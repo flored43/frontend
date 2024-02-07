@@ -1,4 +1,4 @@
-iniimport React from 'react';
+import React from 'react';
 import { Card, Col } from 'react-bootstrap';
 import { useDispatch } from 'react-redux';
 import ButtonsEditDelete from '../ButtonsEditDelete';
